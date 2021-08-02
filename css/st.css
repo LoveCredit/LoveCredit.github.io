@@ -1,0 +1,9 @@
+.profileimg {
+    height: 350px;
+    width: 350px;
+    background-image: url(../img/_MG_1000_web.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-right: 50px;
+    margin-left: 200px;
+}
