@@ -4,3 +4,26 @@
     padding-right: 50px;
     margin-left: 150px;
 }
+
+@media (max-width: 540px) {
+    #ctp {
+        width: 480px;
+    }
+
+}
+
+@media (min-width: 540px) and (max-width: 992px) {
+    #ctp {
+        width: 540px;
+    }
+    .tm-activity-block-text{
+        font-size: 11px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .tm-nav-section {
+        display: none;
+    }
+}
